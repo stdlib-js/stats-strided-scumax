@@ -22,7 +22,6 @@
 
 <details>
 
--   [`d26f440`](https://github.com/stdlib-js/stdlib/commit/d26f4407f6a30f4c96bfcd9282bfaa77f5ff8d6a) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`46890e2`](https://github.com/stdlib-js/stdlib/commit/46890e202ffa9ef408fd309a97a53fbf0ba11fad) - **feat:** add `stats/strided/scumax` _(by Aayush Khanna)_
 
 </details>
