@@ -50,7 +50,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import scumax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-scumax@deno/mod.js';
+import scumax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-scumax@v0.1.0-deno/mod.js';
 ```
 
 #### scumax( N, x, strideX, y, strideY )
@@ -160,7 +160,7 @@ scumax.ndarray( 4, x, 2, 1, y, -1, y.length-1 );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@deno/mod.js';
-import scumax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-scumax@deno/mod.js';
+import scumax from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-scumax@v0.1.0-deno/mod.js';
 
 var x = discreteUniform( 10, -50, 50, {
     'dtype': 'float32'
